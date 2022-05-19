@@ -10,7 +10,6 @@ var (
 	NilStruct *ISOEntry
 
 	ENb      string = isocodes3["ENG"].alph3b
-	ENt      string = isocodes3["ENG"].alph3t
 	EN2      string = isocodes3["ENG"].alph2
 	ENStruct        = ISOEntry{
 		enName: isocodes3["ENG"].enName,
@@ -21,7 +20,6 @@ var (
 	}
 
 	FRb      string = isocodes3["FRE"].alph3b
-	FRt      string = isocodes3["FRE"].alph3t
 	FR2      string = isocodes3["FRE"].alph2
 	FRStruct        = ISOEntry{
 		enName: isocodes3["FRE"].enName,
@@ -33,7 +31,6 @@ var (
 
 	// géorgien
 	KAb string = isocodes3["GEO"].alph3b
-	KAt string = isocodes3["GEO"].alph3t
 	KA2 string = isocodes3["GEO"].alph2
 
 	KAStruct = ISOEntry{
