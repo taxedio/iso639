@@ -9,10 +9,7 @@
   <a href="https://taxed.io">taxed.io</a>
 </h3>
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/taxedio/iso639)](https://goreportcard.com/report/github.com/taxedio/iso639)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/taxedio/iso639/LICENCE)  
-[![GitHub contributors](https://img.shields.io/github/contributors/taxedio/iso639)](https://github.com/taxedio/iso639/graphs/contributors)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/taxedio/iso639)
+[![Go Report Card](https://goreportcard.com/badge/github.com/taxedio/iso639)](https://goreportcard.com/report/github.com/taxedio/iso639) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/taxedio/iso639/LICENCE) [![GitHub contributors](https://img.shields.io/github/contributors/taxedio/iso639)](https://github.com/taxedio/iso639/graphs/contributors) ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/taxedio/iso639)
 
 # Introduction
 
