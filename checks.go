@@ -43,7 +43,6 @@ func Alpha3Match(s string) *string {
 		}
 		// check against original text
 		if s == strings.ToLower(strings.TrimSpace(val.enName)) || s == strings.ToLower(strings.TrimSpace(val.frName)) {
-			fmt.Println(s, val.alph3b)
 			returnStr = fmt.Sprintf("%v", val.alph3b)
 			return &returnStr
 		}
@@ -77,7 +76,6 @@ func Alpha2Match(s string) *string {
 		}
 		// check against original text
 		if s == strings.ToLower(strings.TrimSpace(val.enName)) || s == strings.ToLower(strings.TrimSpace(val.frName)) {
-			fmt.Println(s, val.alph3b)
 			returnStr = fmt.Sprintf("%v", val.alph2)
 			return &returnStr
 		}
